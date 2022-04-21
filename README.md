@@ -23,4 +23,4 @@ Then you can read how to put the definition attractor in the simulation.
 
 You can find on Youtube this tutorial:  
 
-[![Attraktor Creator Tuto](https://github.com/Jive-Faury/Attraktors_Creator/blob/main/images/youtube.PNG?raw=true)](https://youtu.be/h8K1Qd_GnZs "Attraktor Creator Tuto")
+[![Attraktor Creator Tuto](https://github.com/Jive-Faury/Attraktor_Designer/blob/main/Doc_Files/youtube.PNG?raw=true)](https://youtu.be/h8K1Qd_GnZs "Attraktor Creator Tuto")
