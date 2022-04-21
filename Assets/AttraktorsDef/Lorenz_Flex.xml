@@ -1,0 +1,23 @@
+A	10
+B	28
+C	2.6667
+D	0
+E	0
+F	0
+K	1
+Damping	0.2
+X	a * (y - x)
+Y	x * (b-z) - y
+Z	x*y - c*z
+Timestep	0.01
+Tx	-0.99
+Ty	-0.4
+Tz	0
+Rx	-73.53
+Ry	-58.95
+Rz	-61.6
+Sx	0.4
+Sy	0.4
+Sz	0.4
+Uniformscale	1
+Emitterbypass	0
