@@ -1,4 +1,4 @@
-# Attraktor Creator
+# Attraktors Creator
 **Create Strange Attractors and mix them in TouchDesigner**
 
 Attraktor Creator is the light version of Attraktors Designer without the design and the play mode.  
